@@ -2,7 +2,7 @@
 
 An exploratory data analysis of the Indian Premier League built on **ball-by-ball data (278,205 deliveries, 1,169 matches)**. The notebook cleans and standardizes the raw data, engineers match and phase features, and computes **12 team and player KPIs** covering win rates, batting, bowling, scoring phases, and the effect of the toss.
 
-Google Colab Link: [IPL Data Analysis]([url](https://colab.research.google.com/drive/16W9uj7QNu1NusjRIbMljJ2PB5_laiGew#scrollTo=Y1mDBYyTYvo2))
+Google Colab Link: [IPL Data Analysis]([(https://colab.research.google.com/drive/16W9uj7QNu1NusjRIbMljJ2PB5_laiGew#scrollTo=Y1mDBYyTYvo2)])
 
 ## Objectives
 - Standardize messy, multi-season IPL data into an analysis-ready form
